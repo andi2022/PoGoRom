@@ -1,8 +1,9 @@
+
 # PoGoRom RK3318 Chipset Android 11
 
-Tested on H96Max 4GB/32GB and 4GB/64GB
-
 **Use this rom at your own risk**
+
+`Tested on H96Max 4GB/32GB and 4GB/64GB`
 
 [Download beta ROM v1.0](https://github.com/andi2022/PoGoRom/releases/download/rk3318_a11/pogorom_rk3318_a11_beta_v1.0.img.zip)
 
